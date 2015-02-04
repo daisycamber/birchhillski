@@ -1,11 +1,11 @@
 {
    "MaxWind": "7",
    "AirportTime": "1:53 PM",
-   "LastUpdated": "Last updated 14:41:27 02/04/2015",
+   "LastUpdated": "Last updated 14:41:52 02/04/2015",
    "BirchHillTemp": "-4.7",
    "BirchHillTime": "2:40 PM",
    "HighTempTime": "2:38 PM",
-   "UAFTemp": "-8.5",
+   "UAFTemp": "-8.6",
    "HighTemp": "-4",
    "Humidity": "84%",
    "LowTempTime": "8:04 AM",
@@ -263,7 +263,7 @@
    ],
    "AirportTemp": "-13.0",
    "WindLabel": "ENE",
-   "UAFTime": "02/04/15 14:36:10",
+   "UAFTime": "02/04/15 14:41:11",
    "Forecast": [
       "Today: Partly cloudy. Areas of fog. Highs zero to 15 below...coldest in the valleys. Light winds.",
       "Tonight: Partly cloudy. Lows 25 to 35 below...except around 15 below on the hills. Light winds.",
