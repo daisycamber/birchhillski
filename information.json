@@ -1,15 +1,15 @@
 {
    "MaxWind": "7",
    "AirportTime": "1:53 PM",
-   "LastUpdated": "Last updated 14:28:32 02/04/2015",
-   "BirchHillTemp": "-5.9",
-   "BirchHillTime": "2:25 PM",
-   "HighTempTime": "1:25 PM",
-   "UAFTemp": "-8.8",
-   "HighTemp": "-5",
+   "LastUpdated": "Last updated 14:39:24 02/04/2015",
+   "BirchHillTemp": "-5.0",
+   "BirchHillTime": "2:35 PM",
+   "HighTempTime": "2:34 PM",
+   "UAFTemp": "-8.5",
+   "HighTemp": "-4",
    "Humidity": "84%",
    "LowTempTime": "8:04 AM",
-   "TempChange": false,
+   "TempChange": true,
    "News": [
       [
          "Besh Cup 6 Results by Class",
@@ -88,182 +88,13 @@
       ]
    ],
    "LowTemp": "-13",
-   "TrailsDate": "Last Updated: 03 February 2015",
+   "TrailsDate": "--",
    "AverageWind": "6",
    "ForecastTime": "913 AM",
-   "Trails": [
-      [
-         "WARM-UP",
-         "EASY",
-         "1.5 KM",
-         "01/24/15",
-         "Groomed and set track"
-      ],
-      [
-         "RELAY START",
-         "EASY",
-         "750 METERS",
-         "01/25/15",
-         "Groomed and set track  "
-      ],
-      [
-         "TOWER LOOP",
-         "DIFFICULT",
-         "2.3 KM",
-         "01/25/15",
-         "Groomed and set track"
-      ],
-      [
-         "OLD TOWER",
-         "EASY",
-         "250 METERS",
-         "01/02/15",
-         "Groomed and set track"
-      ],
-      [
-         "ROLLER COASTER",
-         "MORE DIFFICULT",
-         "900 METERS",
-         "01/28/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "WHITE BEAR ACCESS",
-         "DIFFICULT",
-         "900 METERS",
-         "01/24/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "SOUTH TOWER",
-         "DIFFICULT",
-         "400 METERS",
-         "01/28/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "TOWER DIRECT",
-         "DIFFICULT",
-         "150 METERS",
-         "01/28/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "MEDIVAC",
-         "MOST DIFFICULT",
-         "400 METERS",
-         "01/24/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "GREEN DOT",
-         "EASY",
-         "300 METERS",
-         "01/25/15",
-         "Groomed & Tracked  "
-      ],
-      [
-         "BLUE LOOP",
-         "DIFFICULT",
-         "1.2 KM",
-         "01/25/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "OUTHOUSE LOOP",
-         "DIFFICULT",
-         "2.5 KM",
-         "01/25/15",
-         "Upper Loop Groomed & Tracked"
-      ],
-      [
-         "COMP LOOP",
-         "MOST DIFFICULT",
-         "1.1 KM",
-         "02/03/15",
-         "Groomed & Tracked to Cheater Cut-off"
-      ],
-      [
-         "NORTH FORTY (N40)",
-         "MOST DIFFICULT",
-         "2.5 KM",
-         "02/03/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "BLACK HOLE",
-         "MOST DIFFICULT",
-         "2.5 KM",
-         "02/03/15",
-         "Upper Loop, Groomed & Tracked"
-      ],
-      [
-         "TOMMY KNOCKER",
-         "DIFFICULT",
-         "0.2 KM",
-         "02/03/15",
-         "Groomed and Tracked"
-      ],
-      [
-         "BLACK FUNK",
-         "DIFFICULT",
-         "N DIFFICULT 0.25 KM",
-         "02/03/15",
-         "Groomed and Tracked "
-      ],
-      [
-         "WHITE BEAR",
-         "DIFFICULT",
-         "9.9 KM",
-         "01/30/15",
-         "Set new track"
-      ],
-      [
-         "MOILANEN MEADOWS",
-         "DIFFICULT",
-         "1.5 KM",
-         "01/30/15",
-         "Set new track"
-      ],
-      [
-         "CLASSICAL ONLY",
-         "DIFFICULT",
-         "6 KM",
-         "1/24/15",
-         "Packed and tracked"
-      ],
-      [
-         "WHITE CUB",
-         "EASY",
-         "1 KM",
-         "01/30/15",
-         "Set new track"
-      ],
-      [
-         "BLACKHAWK",
-         "DIFFICULT",
-         "2.6 KM",
-         "01/31/15",
-         "Groomed and Tracked"
-      ],
-      [
-         "CHINOOK",
-         "VERY DIFFICULT",
-         "3.6 KM",
-         "01/31/15",
-         "Groomed and Tracked"
-      ],
-      [
-         "SONOT CONNECTOR",
-         "DIFFICULT",
-         "2 KM",
-         "01/30/15",
-         "Groomed and tracked"
-      ]
-   ],
+   "Trails": [],
    "AirportTemp": "-13.0",
    "WindLabel": "NE",
-   "UAFTime": "02/04/15 14:26:10",
+   "UAFTime": "02/04/15 14:36:10",
    "Forecast": [
       "Today: Partly cloudy. Areas of fog. Highs zero to 15 below...coldest in the valleys. Light winds.",
       "Tonight: Partly cloudy. Lows 25 to 35 below...except around 15 below on the hills. Light winds.",
@@ -275,13 +106,13 @@
       "Sunday And Sunday Night: Partly cloudy. Highs around 20 below. Lows around 40 below. ",
       "Monday And Monday Night: Mostly cloudy. Highs around 20 below. Lows 30 to 40 below. "
    ],
-   "Wind": "0",
+   "Wind": "1",
    "Successes": [
       true,
       true,
       true,
       true,
-      true,
+      false,
       true
    ]
 }
