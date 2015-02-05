@@ -1,16 +1,26 @@
 {
    "MaxWind": "7",
    "AirportTime": "1:53 PM",
-   "LastUpdated": "Last updated 14:45:31 02/04/2015",
-   "BirchHillTemp": "-4.3",
-   "BirchHillTime": "2:45 PM",
-   "HighTempTime": "2:44 PM",
-   "UAFTemp": "-8.6",
-   "HighTemp": "-4",
-   "Humidity": "84%",
-   "LowTempTime": "8:04 AM",
+   "LastUpdated": "Last updated 14:13:09 02/05/2015",
+   "BirchHillTemp": "-1.3",
+   "BirchHillTime": "2:10 PM",
+   "HighTempTime": "1:27 PM",
+   "UAFTemp": "-13.1",
+   "HighTemp": "0",
+   "Humidity": "79%",
+   "LowTempTime": "3:46 AM",
    "TempChange": true,
    "News": [
+      [
+         "ConocoPhillips Winter Carnival Returns for Ninth Year",
+         "Thu, 05 Feb 2015",
+         "<div class=\"feed-description\"><p class=\"MsoNormal\">Sunday, February 8 will mark the 9<sup>th<\/sup> edition of the ConocoPhillips Winter Carnival, a fun hour-and-a-half filled with ski games and a scavenger hunt.<\/p><p class=\"MsoNormal\"><em>(Please note, in case of postponement due to cold weather, our back-up date is February 15th) <\/em><\/p><p class=\"MsoNormal\"> <\/p><\/div>"
+      ],
+      [
+         "Support Nordic Ski Club Fairbanks through Fred Meyer's  Community Rewards Program",
+         "Thu, 05 Feb 2015",
+         "<div class=\"feed-description\"><p>You can earn donations from Fred Meyer\u2019s to the Nordic Ski Club of Fairbanks just by shopping at Fred Meyer\u2019s with your Rewards Card. Fred Meyer will donate $2.5 million to nonprofits in Alaska, Idaho, Oregon and Washington annually through this program.<\/p><p>Here's how it works:<\/p><h3>Link your Rewards Card to Nordic Ski Club of Fairbanks at Fred Meyer\u2019s Community Rewards Page (online at fredmeyers.com).<\/h3><ul><li>Whenever you use your Rewards card when shopping at Freddy's, you\u2019ll be helping the nonprofit linked to your Rewards Card earn a donation from Fred Meyer. At the end of each quarter, Fred Meyer will make a donation to participating nonprofits based on the accumulated spending of the Rewards customers linked to each nonprofit. Fred Meyer will donate $625,000 each quarter via Community Rewards!<\/li><\/ul><h3>Do I still get Rewards Points, Fuel Points and Rebates?<\/h3><ul><li>YES! Rewards Customers still get the Rewards Points, Fuel Points and Rebates \u2013 the money donated to the NSCF is on top of your own rewards.<\/li><\/ul><h3>Why is Fred Meyer moving to Community Rewards?<\/h3><ul><li>For years, the decision about which organizations Fred Meyer supported rested with a small group of employees. It wasn't transparent, nor was it necessarily the best thing for our communities. Now you can tell us where to donate our money! You can link your Rewards Cards to the nonprofit you believe is doing the most good in your community, and we'll direct donations to those organizations.<\/li><\/ul><p>If a large number of Nordic Ski Club of Fairbanks members and supporters sign up for this program, the Nordic Ski Club could be the recipient of a few to several thousand dollars each year \u2013 dollars that go toward the programs that the Nordic Ski Club conducts, including our unparalleled trails/grooming program, on which the club spends about $100,000 per year.  Help out the club and help sustain our great trails.  Sign up now!<\/p><\/div>"
+      ],
       [
          "Besh Cup 6 Results by Class",
          "Mon, 02 Feb 2015",
@@ -75,22 +85,12 @@
          "19th Annual KINROSS Fort Knox Town Race Series' Kendall Subaru of Fairbanks Ski-Cross this Weekend ",
          "Tue, 20 Jan 2015",
          "<div class=\"feed-description\"><p>The Nordic Ski Club of Fairbanks is pleased to announce the fourth race in the 19th Annual KINROSS Fort Knox Town Race Series, the  Kendall Subaru of Fairbanks Ski-Cross, will be held Saturday, January 24, at 11:00am at the Jim Whisenhant Ski Trails at Birch Hill Recreation Area.  The KINROSS Fort Knox Town Race Series provides a competitive forum for skiers of all ages beginning with pre-schoolers.  Over 200 entries are anticipated.<br /><br />Racing begins at 11:00am in free technique with all classes racing in ski-cross format. Distances will be: 200-400m for Grades K-1-2, 300-500m for Grades 3-4, 300-500m for Grade 5-6, 400-600m for Grade 7-8;and 600m+ for high school and adult skiers.  The start times for each class will be published later this week.<br /><br />This race will serve as a Region VI high school competition, with skiers from Lathrop HS, West Valley HS, North Pole HS, Hutchison HS and Monroe Catholic HS competing in both boys' and girls' classes. <\/p><\/div>"
-      ],
-      [
-         "Come Out To the Backcountry Film Festival This Saturday ",
-         "Tue, 20 Jan 2015",
-         "<div class=\"feed-description\"><p class=\"MsoNormal\">Three Alaska-based films will be featured in the Backcountry Film Festival showing at Birch Hill on Saturday, January 24.<\/p><p class=\"MsoNormal\">The showing, put on by the Nordic Ski Club of Fairbanks (NSCF), will start at 7pm in the Birch Hill Cross Country Ski Center. Doors open at 6pm. Besides being great fun, this event serves as a fundraiser for the NSCF and the Winter Wildlands Alliance. Tickets are $<span style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; line-height: normal;\">15 single, $35 family.<\/span><\/p><p class=\"MsoNormal\">Now in its 10th year the Winter Wildlands Alliance Backcountry Film Festival celebrates the human-powered winter experience through film. Of the nine touring films this season, at least three take place in Alaska.<\/p><p class=\"MsoNormal\"> <\/p><\/div>"
-      ],
-      [
-         "ConocoPhillips Besh Cup #4 Overall Results ",
-         "Mon, 19 Jan 2015",
-         "<div class=\"feed-description\"><p>Below are OVERALL RESULTS for the women's 5Km and men's 10Km races in Besh Cup #4 in text format.  For official results with Besh Cup points and Junior National Team Qualifying points, go to crosscountryalaska.org.  The Nordic Ski Club of Fairbanks would like to thank all the NSCF volunteers who came out on short notice - on what would have been one of their rare weekends off - and put on a great weekend of racing.  We'd also like to thank all the athletes, coaches and parents who made an unplanned long haul to the north when the races were relocated.  We hope that everyone enjoyed the weekend.<\/p><\/div>"
       ]
    ],
-   "LowTemp": "-13",
-   "TrailsDate": "Last Updated: 03 February 2015",
+   "LowTemp": "-9",
+   "TrailsDate": "Last Updated: 05 February 2015",
    "AverageWind": "6",
-   "ForecastTime": "913 AM",
+   "ForecastTime": "502 AM",
    "Trails": [
       [
          "WARM-UP",
@@ -166,14 +166,14 @@
          "BLUE LOOP",
          "DIFFICULT",
          "1.2 KM",
-         "01/25/15",
+         "02/05/15",
          "Groomed & Tracked"
       ],
       [
          "OUTHOUSE LOOP",
          "DIFFICULT",
          "2.5 KM",
-         "01/25/15",
+         "02/05/15",
          "Upper Loop Groomed & Tracked"
       ],
       [
@@ -261,21 +261,21 @@
          "Groomed and tracked"
       ]
    ],
-   "AirportTemp": "-13.0",
-   "WindLabel": "ENE",
-   "UAFTime": "02/04/15 14:41:11",
+   "AirportTemp": "-18.0",
+   "WindLabel": "NNE",
+   "UAFTime": "02/05/15 14:11:10",
    "Forecast": [
-      "Today: Partly cloudy. Areas of fog. Highs zero to 15 below...coldest in the valleys. Light winds.",
-      "Tonight: Partly cloudy. Lows 25 to 35 below...except around 15 below on the hills. Light winds.",
-      "Thursday: Mostly clear. Highs 5 to 20 below. Coldest in valleys. Light winds.",
-      "Thursday Night: Mostly clear. Lows 30 to 40 below. Light winds.",
-      "Friday: Partly cloudy. Highs 15 to 25 below. Light winds.",
-      "Friday Night: Partly cloudy. Lows around 35 below. ",
-      "Saturday And Saturday Night: Partly cloudy. Highs around 25 below. Lows 35 to 40 below. ",
-      "Sunday And Sunday Night: Partly cloudy. Highs around 20 below. Lows around 40 below. ",
-      "Monday And Monday Night: Mostly cloudy. Highs around 20 below. Lows 30 to 40 below. "
+      "Today: Mostly clear. Highs 10 to 20 below. Light winds.",
+      "Tonight: Mostly clear. Lows 30 to 45 below. Light winds.",
+      "Friday: Mostly clear. Highs 15 to 25 below. Light winds.",
+      "Friday Night: Partly cloudy. Lows 30 to 45 below. Light winds.",
+      "Saturday: Mostly clear. Highs 15 to 22 below. Northeast winds to 10 mph. ",
+      "Saturday Night: Mostly clear. Lows around 40 below. ",
+      "Sunday And Sunday Night: Mostly clear. Highs around 20 below. Lows around 40 below. ",
+      "Monday And Monday Night: Mostly cloudy. Highs around 15 below. Lows 25 to 40 below. ",
+      "Tuesday: Partly cloudy. Highs around 10 below. "
    ],
-   "Wind": "0",
+   "Wind": "2",
    "Successes": [
       true,
       true,
