@@ -1,20 +1,50 @@
 {
-   "MaxWind": "7",
-   "AirportTime": "1:53 PM",
-   "LastUpdated": "Last updated 14:16:45 02/05/2015",
-   "BirchHillTemp": "-1.2",
-   "BirchHillTime": "2:15 PM",
-   "HighTempTime": "1:27 PM",
-   "UAFTemp": "-12.4",
-   "HighTemp": "0",
-   "Humidity": "79%",
-   "LowTempTime": "3:46 AM",
+   "MaxWind": "10",
+   "AirportTime": "8:53 PM",
+   "LastUpdated": "Last updated 21:32:50 02/08/2015",
+   "BirchHillTemp": "-11.",
+   "BirchHillTime": "9:30 PM",
+   "HighTempTime": "3:09 PM",
+   "UAFTemp": "-19.0",
+   "HighTemp": "-6",
+   "Humidity": "77%",
+   "LowTempTime": "1:33 AM",
    "TempChange": true,
    "News": [
       [
+         "ConocoPhillips Winter Carnival Postponed until Feb 15",
+         "Sun, 08 Feb 2015",
+         "<div class=\"feed-description\"><p>Due to the cold temps and not quite enough warming expected to reach our temp cut-off of -5F, we are postponing the ConocoPhillips Winter Carnival until next Sunday Feb 15.  See <a href=\"http://www.nscfairbanks.org/index.php/junior-nordics/870-conocophillips-winter-carnival-returns-for-ninth-year\">story below<\/a> for more details on the event.<\/p><\/div>"
+      ],
+      [
+         "Results from today's 5Km Mass Start Classic Technique Region 6 Championships ",
+         "Sun, 08 Feb 2015",
+         "<div class=\"feed-description\"><p>Below are the results in text format from today's Region VI High School Championships mass start classic technique event.<\/p><\/div>"
+      ],
+      [
+         "Region 6 Championships Update - 12:20PM",
+         "Sat, 07 Feb 2015",
+         "<div class=\"feed-description\"><p>The temperature is -14.5F, so unless things start dropping, the races will take place at the scheduled time. Both race distances have been changed to 5Km.<\/p><\/div>"
+      ],
+      [
+         "Region 6 Championships Update - 11:30AM",
+         "Sat, 07 Feb 2015",
+         "<div class=\"feed-description\"><p>Current temperature on the Birch Hill weather station is -15.9F.  The trend is upward.  Start time is 90 minutes away, so it looks reasonably likely that the temperature will reach the required -15F by the scheduled start time of 1PM.<\/p><\/div>"
+      ],
+      [
+         "Region 6 Championships Update - 10:55AM",
+         "Sat, 07 Feb 2015",
+         "<div class=\"feed-description\"><p>Current temperature is -17F, and rising, so at this point it doesn't make sense to cancel or postpone today's race.  That being the case, we will go ahead with stadium setup and keep an eye on the temperature.<\/p><p>Unfortunately, internet access at the timing building has ceased (and our efforts to restart it have failed), so it will be impossible to access the weather page or the weather app until after that is repaired sometime next week.<\/p><p>Any updates will be made on Facebook and nscfairbanks.org.<\/p><p>Thanks.<\/p><\/div>"
+      ],
+      [
+         "Region VI Championships Mass Start Event Postponed to Saturday",
+         "Fri, 06 Feb 2015",
+         "<div class=\"feed-description\"><p>The Region VI Championships - Mass Start Individual event scheduled for 3PM today has been postponed.  There will be no race today (Friday the 6th).<br /><br />The Mass Start Individual event has been rescheduled for 1PM Saturday the 7th.  We will get a Saturday work roster out, with times for crews to show up at Birch Hill, this evening (Friday). <br /><br />If the cold weather continues, it is possible that there will be no race on Saturday, either.  We will get postponement/cancellation information to our volunteers at the earliest possible moment.<\/p><\/div>"
+      ],
+      [
          "ConocoPhillips Winter Carnival Returns for Ninth Year",
          "Thu, 05 Feb 2015",
-         "<div class=\"feed-description\"><p class=\"MsoNormal\">Sunday, February 8 will mark the 9<sup>th<\/sup> edition of the ConocoPhillips Winter Carnival, a fun hour-and-a-half filled with ski games and a scavenger hunt.<\/p><p class=\"MsoNormal\"><em>(Please note, in case of postponement due to cold weather, our back-up date is February 15th) <\/em><\/p><p class=\"MsoNormal\"> <\/p><\/div>"
+         "<div class=\"feed-description\"><p class=\"MsoNormal\">Sunday, February 15 (postponed from February 8) will mark the 9<sup>th<\/sup> edition of the ConocoPhillips Winter Carnival, a fun hour-and-a-half filled with ski games and a scavenger hunt.<\/p><p class=\"MsoNormal\"> <\/p><\/div>"
       ],
       [
          "Support Nordic Ski Club Fairbanks through Fred Meyer's  Community Rewards Program",
@@ -55,233 +85,34 @@
          "Stoltz Dental Offers Reduced Cost Services as Fundraiser to help NSCF Family",
          "Mon, 26 Jan 2015",
          "<div class=\"feed-description\"><p>Stoltz Dental Group would like to invite Nordic Ski Club of Fairbanks members to join us in a \u201cpay it forward\u201d day in honor of Joan Hornig and Mike Emers, and their recent house fire tragedy.  <\/p><p>Our office will be offering dental services (exam, x-rays, fillings, crowns) for a reduced rate, and you will be given a fee estimate at a pre-screening exam.  This estimate will be the suggested donation amount that will be paid in the form of a check only at the time of service.  Stoltz Dental will collect and mail all money directly to the Emers family. Click \"Read more\" for more details.<\/p><\/div>"
-      ],
-      [
-         "Got grooming?",
-         "Mon, 26 Jan 2015",
-         "<div class=\"feed-description\"><p>So you\u2019ve crested that you-know-what-of-a-hill, and you\u2019re ready to reap the benefits of your hard work, but wait \u2026 just as the speed picks up, your ski catches that rut \u2026 and it\u2019s taking you right into that aspen. Smack. Down. <\/p><p>Been there? <\/p><p>Done that? <\/p><p>Us too! That\u2019s why we donate to the NSCF Trail Fund!<\/p><p> <\/p><p><strong>WHO GROOMS? NORDIC SKI CLUB OF FAIRBANKS GROOMS!<\/strong><\/p><p>While the Fairbanks North Star Borough operates Birch Hill facilities like the buildings and parking areas, the Nordic Ski Club of Fairbanks maintains the trails.  Our groomers provide top-notch groomed trails to satisfy the needs of everyone from elite racers to weekend recreationists. Beginner and advanced skiers alike enjoy our trails.<\/p><p> <\/p><\/div>"
-      ],
-      [
-         "2nd Distance Race Postponed Due to Cold",
-         "Sun, 25 Jan 2015",
-         "<div class=\"feed-description\"><p>The 2nd race in the 16th Annual Buetow Dental Distance Series, the January Jaunt, presented by Raven Cross Country, will NOT be held today, January 25th, at Birch Hill.<\/p><p>The temperatures are in the range of -18F to -22F, depending upon which thermometer you are looking at and where you are looking at it.  This is our first really cold weather of the year.  The distance is long, and the snow is extremely SLOW.  We will try again at a later date.<\/p><p>We will look at our very crowded calendar and see where we can squeeze it in.  At this point, we do not have tentative date.<\/p><p>Thanks,<\/p><p>NSC Fairbanks Competition Events Program<\/p><\/div>"
-      ],
-      [
-         "Today's Town Series Race Postponed",
-         "Sat, 24 Jan 2015",
-         "<div class=\"feed-description\"><p>The fourth race in the KINROSS Fort Knox Town Race Series has been postponed to the last weekend in February. The Kendall Subaru of Fairbanks ski-cross WILL NOT be held today as scheduled due to cold temperatures, which are forecast to drop throughout the day. Current temperatures at Birch Hill (8:50AM) are in the -15F to -17F range.<br /><br />Thanks,<br /><br />NSCF Competition Events Program<\/p><\/div>"
-      ],
-      [
-         "Draft schedule for this Saturday\u2019s KINROSS Fort Knox Town Race Series event, the Kendall Subaru of Fairbanks Ski-Cross.",
-         "Fri, 23 Jan 2015",
-         "<div class=\"feed-description\"><p><!-- [if gte mso 9]><xml> <o:OfficeDocumentSettings>  <o:AllowPNG/> <\/o:OfficeDocumentSettings><\/xml><![endif]--><\/p><p class=\"MsoNormal\"><!-- [if gte mso 9]><xml> <w:WordDocument>  <w:View>Normal<\/w:View>  <w:Zoom>0<\/w:Zoom>  <w:TrackMoves/>  <w:TrackFormatting/>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false<\/w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false<\/w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false<\/w:AlwaysShowPlaceholderText>  <w:DoNotPromoteQF/>  <w:LidThemeOther>EN-US<\/w:LidThemeOther>  <w:LidThemeAsian>X-NONE<\/w:LidThemeAsian>  <w:LidThemeComplexScript>X-NONE<\/w:LidThemeComplexScript>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>   <w:SplitPgBreakAndParaMark/>   <w:EnableOpenTypeKerning/>   <w:DontFlipMirrorIndents/>   <w:OverrideTableStyleHps/>  <\/w:Compatibility>  <m:mathPr>   <m:mathFont m:val=\"Cambria Math\"/>   <m:brkBin m:val=\"before\"/>   <m:brkBinSub m:val=\"&#45;-\"/>   <m:smallFrac m:val=\"off\"/>   <m:dispDef/>   <m:lMargin m:val=\"0\"/>   <m:rMargin m:val=\"0\"/>   <m:defJc m:val=\"centerGroup\"/>   <m:wrapIndent m:val=\"1440\"/>   <m:intLim m:val=\"subSup\"/>   <m:naryLim m:val=\"undOvr\"/>  <\/m:mathPr><\/w:WordDocument><\/xml><![endif]--><!-- [if gte mso 9]><xml> <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"  DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"  LatentStyleCount=\"267\">  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\"/>  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\"/>  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\"/>  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>  <w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>  <w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\"/>  <w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>  <w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\"/>  <w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\"/>  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\"/>  <w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\"/>  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>  <w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\"/>  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>  <w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\"/>  <w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\"/>  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>  <w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\"/>  <w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\"/>  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\"/> <\/w:LatentStyles><\/xml><![endif]--><!-- [if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable\t{mso-style-name:\"Table Normal\";\tmso-tstyle-rowband-size:0;\tmso-tstyle-colband-size:0;\tmso-style-noshow:yes;\tmso-style-priority:99;\tmso-style-parent:\"\";\tmso-padding-alt:0in 5.4pt 0in 5.4pt;\tmso-para-margin:0in;\tmso-para-margin-bottom:.0001pt;\tmso-pagination:widow-orphan;\tfont-size:11.0pt;\tfont-family:\"Calibri\",\"sans-serif\";\tmso-ascii-font-family:Calibri;\tmso-ascii-theme-font:minor-latin;\tmso-hansi-font-family:Calibri;\tmso-hansi-theme-font:minor-latin;}<\/style><![endif]-->These start times are approximate. As now planned, there will be 74 heats, so we may get a little ahead of schedule or fall a little behind schedule \u2013 so be sure to arrive plenty early for your age group; and plan to stay a little later than the scheduled end-time for your group.<span style=\"mso-spacerun: yes;\">  <\/span>If we have a smaller than expected turnout in some classes the number of preliminary and final heats will be reduced and the schedule will be accelerated.<\/p><p class=\"MsoNormal\">Here\u2019s the plan:<\/p><ul><li class=\"MsoNormal\">High School and Adult Women and Men - 11:00 - 12:25 (B Bracket will go first, then A Bracket)<\/li><li class=\"MsoNormal\">Junior High Girls and Boys - 12:20-13:05<\/li><li class=\"MsoNormal\"><span style=\"text-decoration: underline;\"><em><strong>15 minute break for volunteers<\/strong><\/em><\/span><\/li><li class=\"MsoNormal\">Grade 5-6 Girls and Boys - 13:20-13:40<\/li><li class=\"MsoNormal\">Grade 3-4 Girls and Boys - 13:40-14:00<\/li><li class=\"MsoNormal\">Grade K-1-2 Girls and Boys - 14:00-14:25<\/li><\/ul><\/div>"
-      ],
-      [
-         "Sixteenth Annual Buetow Dental Distance Series Continues Sunday",
-         "Thu, 22 Jan 2015",
-         "<div class=\"feed-description\"><p>The second race in the 16th Annual Buetow Dental Distance Series, presented by Raven Cross Country and organized by the Nordic Ski Club of Fairbanks is scheduled for Sunday, January 25.  This race was originally scheduled to have been held on January 17, but was pushed back eight days to accommodate the Besh Cup races that had to be relocated from the Kenai Peninsula.  The two-lap, 20Km mass-start, classic technique event, starts at 11:00AM in the Birch Hill Ski Stadium at the Birch Hill Recreation Area.  A one-lap 10Km event is available for those wishing to race over a shorter distance.<\/p><\/div>"
-      ],
-      [
-         "19th Annual KINROSS Fort Knox Town Race Series' Kendall Subaru of Fairbanks Ski-Cross this Weekend ",
-         "Tue, 20 Jan 2015",
-         "<div class=\"feed-description\"><p>The Nordic Ski Club of Fairbanks is pleased to announce the fourth race in the 19th Annual KINROSS Fort Knox Town Race Series, the  Kendall Subaru of Fairbanks Ski-Cross, will be held Saturday, January 24, at 11:00am at the Jim Whisenhant Ski Trails at Birch Hill Recreation Area.  The KINROSS Fort Knox Town Race Series provides a competitive forum for skiers of all ages beginning with pre-schoolers.  Over 200 entries are anticipated.<br /><br />Racing begins at 11:00am in free technique with all classes racing in ski-cross format. Distances will be: 200-400m for Grades K-1-2, 300-500m for Grades 3-4, 300-500m for Grade 5-6, 400-600m for Grade 7-8;and 600m+ for high school and adult skiers.  The start times for each class will be published later this week.<br /><br />This race will serve as a Region VI high school competition, with skiers from Lathrop HS, West Valley HS, North Pole HS, Hutchison HS and Monroe Catholic HS competing in both boys' and girls' classes. <\/p><\/div>"
       ]
    ],
-   "LowTemp": "-9",
-   "TrailsDate": "Last Updated: 05 February 2015",
-   "AverageWind": "6",
-   "ForecastTime": "502 AM",
-   "Trails": [
-      [
-         "WARM-UP",
-         "EASY",
-         "1.5 KM",
-         "01/24/15",
-         "Groomed and set track"
-      ],
-      [
-         "RELAY START",
-         "EASY",
-         "750 METERS",
-         "01/25/15",
-         "Groomed and set track  "
-      ],
-      [
-         "TOWER LOOP",
-         "DIFFICULT",
-         "2.3 KM",
-         "01/25/15",
-         "Groomed and set track"
-      ],
-      [
-         "OLD TOWER",
-         "EASY",
-         "250 METERS",
-         "01/02/15",
-         "Groomed and set track"
-      ],
-      [
-         "ROLLER COASTER",
-         "MORE DIFFICULT",
-         "900 METERS",
-         "01/28/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "WHITE BEAR ACCESS",
-         "DIFFICULT",
-         "900 METERS",
-         "01/24/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "SOUTH TOWER",
-         "DIFFICULT",
-         "400 METERS",
-         "01/28/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "TOWER DIRECT",
-         "DIFFICULT",
-         "150 METERS",
-         "01/28/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "MEDIVAC",
-         "MOST DIFFICULT",
-         "400 METERS",
-         "01/24/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "GREEN DOT",
-         "EASY",
-         "300 METERS",
-         "01/25/15",
-         "Groomed & Tracked  "
-      ],
-      [
-         "BLUE LOOP",
-         "DIFFICULT",
-         "1.2 KM",
-         "02/05/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "OUTHOUSE LOOP",
-         "DIFFICULT",
-         "2.5 KM",
-         "02/05/15",
-         "Upper Loop Groomed & Tracked"
-      ],
-      [
-         "COMP LOOP",
-         "MOST DIFFICULT",
-         "1.1 KM",
-         "02/03/15",
-         "Groomed & Tracked to Cheater Cut-off"
-      ],
-      [
-         "NORTH FORTY (N40)",
-         "MOST DIFFICULT",
-         "2.5 KM",
-         "02/03/15",
-         "Groomed & Tracked"
-      ],
-      [
-         "BLACK HOLE",
-         "MOST DIFFICULT",
-         "2.5 KM",
-         "02/03/15",
-         "Upper Loop, Groomed & Tracked"
-      ],
-      [
-         "TOMMY KNOCKER",
-         "DIFFICULT",
-         "0.2 KM",
-         "02/03/15",
-         "Groomed and Tracked"
-      ],
-      [
-         "BLACK FUNK",
-         "DIFFICULT",
-         "N DIFFICULT 0.25 KM",
-         "02/03/15",
-         "Groomed and Tracked "
-      ],
-      [
-         "WHITE BEAR",
-         "DIFFICULT",
-         "9.9 KM",
-         "01/30/15",
-         "Set new track"
-      ],
-      [
-         "MOILANEN MEADOWS",
-         "DIFFICULT",
-         "1.5 KM",
-         "01/30/15",
-         "Set new track"
-      ],
-      [
-         "CLASSICAL ONLY",
-         "DIFFICULT",
-         "6 KM",
-         "1/24/15",
-         "Packed and tracked"
-      ],
-      [
-         "WHITE CUB",
-         "EASY",
-         "1 KM",
-         "01/30/15",
-         "Set new track"
-      ],
-      [
-         "BLACKHAWK",
-         "DIFFICULT",
-         "2.6 KM",
-         "01/31/15",
-         "Groomed and Tracked"
-      ],
-      [
-         "CHINOOK",
-         "VERY DIFFICULT",
-         "3.6 KM",
-         "01/31/15",
-         "Groomed and Tracked"
-      ],
-      [
-         "SONOT CONNECTOR",
-         "DIFFICULT",
-         "2 KM",
-         "01/30/15",
-         "Groomed and tracked"
-      ]
-   ],
-   "AirportTemp": "-18.0",
-   "WindLabel": "NNE",
-   "UAFTime": "02/05/15 14:16:10",
+   "LowTemp": "-26",
+   "TrailsDate": "--",
+   "AverageWind": "7",
+   "ForecastTime": "253 PM",
+   "Trails": [],
+   "AirportTemp": "-29.0",
+   "WindLabel": "ENE",
+   "UAFTime": "02/08/15 21:31:10",
    "Forecast": [
-      "Today: Mostly clear. Highs 10 to 20 below. Light winds.",
-      "Tonight: Mostly clear. Lows 30 to 45 below. Light winds.",
-      "Friday: Mostly clear. Highs 15 to 25 below. Light winds.",
-      "Friday Night: Partly cloudy. Lows 30 to 45 below. Light winds.",
-      "Saturday: Mostly clear. Highs 15 to 22 below. Northeast winds to 10 mph. ",
-      "Saturday Night: Mostly clear. Lows around 40 below. ",
-      "Sunday And Sunday Night: Mostly clear. Highs around 20 below. Lows around 40 below. ",
-      "Monday And Monday Night: Mostly cloudy. Highs around 15 below. Lows 25 to 40 below. ",
-      "Tuesday: Partly cloudy. Highs around 10 below. "
+      "Tonight: Clear. Lows 25 to 35 below...except around 15 below on the hills and channeled areas. Light winds...except northeast winds 15 to 25 mph with wind chill to 40 below over summits and channeled areas.",
+      "Monday: Clear. Highs 10 to 18 below. Light winds.",
+      "Monday Night: Clear. Lows 15 to 30 below. Light winds.",
+      "Tuesday: Mostly clear. Highs around 5 below. Light winds.",
+      "Tuesday Night: Partly cloudy. Lows around 15 below. Light winds.",
+      "Wednesday: Mostly cloudy with scattered flurries. Highs around 5 above. ",
+      "Wednesday Night And Thursday: Mostly cloudy. Lows around 10 below. Highs 5 to 10 above. ",
+      "Thursday Night And Friday: Mostly cloudy. Lows around 5 below. Highs in the lower to mid teens. ",
+      "Friday Night And Saturday: Mostly cloudy. Lows around zero. Highs in the mid teens to lower 20s. "
    ],
-   "Wind": "0",
+   "Wind": "3",
    "Successes": [
       true,
       true,
       true,
       true,
-      true,
+      false,
       true
    ]
 }
